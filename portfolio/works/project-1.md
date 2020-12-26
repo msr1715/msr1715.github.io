@@ -9,8 +9,8 @@ categories:
 description: Creació de pàgina web sobre Wordpress per al Col·lectiu Alternatives
 
 ---
-# Project one
+# Col·lectiu Alternatives
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Creació de pàgina web sobre Wordpress per al Col·lectiu Alternatives.
 
-![](/upload/photo-1490013616775-3ca8865fb129.jpeg)
+![](/upload/screenshot-2020-12-26-at-06-57-16.png)
